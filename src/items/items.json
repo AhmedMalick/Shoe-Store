@@ -1,0 +1,50 @@
+{
+    "NIKE-1": {
+        "name": "NIKE-1",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "NIKE-2": {
+        "name": "NIKE-2",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "NIKE-3": {
+        "name": "NIKE-3",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "NIKE-4": {
+        "name": "NIKE-4",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "NIKE-5": {
+        "name": "NIKE-5",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "NIKE-6": {
+        "name": "NIKE-6",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "NIKE-7": {
+        "name": "NIKE-7",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "NIKE-8": {
+        "name": "NIKE-8",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "NIKE-9": {
+        "name": "NIKE-9",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "NIKE-10": {
+        "name": "NIKE-10",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "NIKE-11": {
+        "name": "NIKE-11",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    },
+    "NIKE-12": {
+        "name": "NIKE-12",
+        "img": "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+    }
+}
