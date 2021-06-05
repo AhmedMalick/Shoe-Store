@@ -18,13 +18,11 @@ const NavBar = () => {
                     <li><Link to='/products'>Products</Link></li>
                     <li><Link to='/aboutus'>About Us</Link></li>
                     <li><Link to='/contactus'>Contact Us</Link></li>
-                </ul>
-            </nav>
-            <div className={styles.menu_icon}>
-                <FaBars />
-            </div>
+                </ul >
+            </nav >
+            <FaBars className={styles.menu_icon} onClick={() => setDisplay(!display)} />
             <img src={cart} alt='Cart' width='30px' height='30px' />
-        </div>
+        </div >
     )
 }
 
