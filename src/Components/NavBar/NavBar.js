@@ -1,14 +1,15 @@
 import { Link } from 'react-router-dom'
-import styles from './NavBar.module.css'
+import { FaBars } from 'react-icons/fa';
 import logo from '../../Assests/logo.png'
 import cart from '../../Assests/cart.png'
+import styles from './NavBar.module.css'
 
 const NavBar = () => {
     return (
         <div className={styles.navbar}>
             <div className={styles.logo}>
                 <Link to='/'>
-                    <img src={logo} width='125px' />
+                    <img src={logo} alt='RedStore' width='125px' />
                 </Link>
             </div>
             <nav>
@@ -19,7 +20,10 @@ const NavBar = () => {
                     <li><Link to='/contactus'>Contact Us</Link></li>
                 </ul>
             </nav>
-            <img src={cart} width='30px' height='30px' />
+            <div className={styles.menu_icon}>
+                <FaBars />
+            </div>
+            <img src={cart} alt='Cart' width='30px' height='30px' />
         </div>
     )
 }

@@ -15,7 +15,7 @@ const Home = () => {
             <Link to='/products' className={styles.btn}>Explore More</Link>
           </div>
           <div className={styles.col_1}>
-            <img src={image_1} />
+            <img src={image_1} alt='Background' />
           </div>
         </div>
       </div>

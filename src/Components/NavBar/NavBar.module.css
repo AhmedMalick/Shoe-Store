@@ -38,6 +38,10 @@ p {
   color: #555;
 }
 
+.menu_icon {
+  display: none;
+}
+
 @media only screen and (max-width: 800px) {
   nav ul {
     position: absolute;

@@ -9,7 +9,7 @@ const AboutUs = () => {
       <div className={styles.container}>
         <div className={styles.row}>
           <div className={styles.col_1}>
-            <img src={image_1} width='100%' />
+            <img src={image_1} alt='Background Image' width='100%' />
           </div>
           <div className={styles.col_1}>
             <div className={styles.about_container}>

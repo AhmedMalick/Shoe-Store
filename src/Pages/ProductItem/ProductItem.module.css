@@ -79,3 +79,25 @@
 .btn:hover {
   background: #563434;
 }
+
+@media only screen and (max-width: 600px) {
+  .row {
+    text-align: center;
+  }
+
+  .col_1 {
+    flex-basis: 100%;
+  }
+
+  .single_product .row {
+    text-align: left;
+  }
+
+  .single-product .col_1 {
+    padding: 20px 0;
+  }
+  .single-product h1 {
+    font-size: 26px;
+    line-height: 32px;
+  }
+}

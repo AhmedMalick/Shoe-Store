@@ -9,7 +9,7 @@ const ContactUs = () => {
       <div className={styles.container}>
         <div className={styles.row}>
           <div className={styles.col_1}>
-            <img src={image_1} width='100%' />
+            <img src={image_1} alt='Background' width='100%' />
           </div>
           <div className={styles.col_1}>
             <div className={styles.form_container}>
