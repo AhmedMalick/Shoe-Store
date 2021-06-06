@@ -13,16 +13,16 @@ const NavBar = () => {
                 </Link>
             </div>
             <nav>
-                <ul>
+                <ul id='menuItems'>
                     <li><Link to='/'>Home</Link></li>
                     <li><Link to='/products'>Products</Link></li>
                     <li><Link to='/aboutus'>About Us</Link></li>
                     <li><Link to='/contactus'>Contact Us</Link></li>
-                </ul >
-            </nav >
-            <FaBars className={styles.menu_icon} onClick={() => setDisplay(!display)} />
+                </ul>
+            </nav>
+            <FaBars className={styles.menu_icon} />
             <img src={cart} alt='Cart' width='30px' height='30px' />
-        </div >
+        </div>
     )
 }
 
