@@ -1,5 +1,5 @@
 import NavBar from '../../Components/NavBar/NavBar'
-import image_1 from '../../Assests/image1.png'
+import image_1 from '../../Assets/image1.png'
 import styles from './Contactus.module.css'
 
 const ContactUs = () => {

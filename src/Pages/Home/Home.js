@@ -1,5 +1,5 @@
 import NavBar from '../../Components/NavBar/NavBar'
-import image_1 from '../../Assests/image1.png'
+import image_1 from '../../Assets/image1.png'
 import { Link } from 'react-router-dom';
 import styles from './Home.module.css';
 
