@@ -32,6 +32,7 @@ select:focus {
   min-width: 200px;
   margin-bottom: 50px;
   transition: transform 0.5s;
+  text-decoration: none;
 }
 
 .col_3 img {

@@ -63,6 +63,10 @@
 }
 
 @media only screen and (max-width: 600px) {
+  .about_page {
+    height: 100%;
+  }
+
   .row {
     text-align: center;
   }

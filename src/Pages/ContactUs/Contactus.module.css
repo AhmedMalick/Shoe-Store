@@ -101,6 +101,10 @@ form .btn:focus {
 }
 
 @media only screen and (max-width: 600px) {
+  .contact_page {
+    height: 100%;
+  }
+
   .row {
     text-align: center;
   }

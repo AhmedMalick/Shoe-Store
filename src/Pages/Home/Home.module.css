@@ -1,4 +1,5 @@
 .header {
+  height: 100vh;
   background: radial-gradient(#fff, #ffd6d6);
 }
 
@@ -49,6 +50,7 @@
   border-radius: 30px;
   transition: background 0.5s;
   margin: 25px;
+  text-decoration: none;
 }
 
 .btn:hover {
@@ -56,6 +58,10 @@
 }
 
 @media only screen and (max-width: 600px) {
+  .header {
+    height: 100%;
+  }
+
   .row {
     text-align: center;
   }
