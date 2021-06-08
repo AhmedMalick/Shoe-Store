@@ -29,7 +29,7 @@ nav ul li {
   margin-right: 20px;
 }
 
-a {
+nav ul li a {
   text-decoration: none;
   color: #555;
 }
@@ -44,7 +44,7 @@ p {
   display: none;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 600px) {
   nav ul {
     position: absolute;
     top: 70px;
