@@ -2,7 +2,7 @@
  
 [live Site](http://a-shoe-store-app.surge.sh/)
 
-![Shoe Store App](/src/Assets/shoestore.png)
+![Shoe Store App](/public/shoestore.png)
 
 This is the code repo of Shoe Store App. There I used:
   * [React](https://reactjs.org)
