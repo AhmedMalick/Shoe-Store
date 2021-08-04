@@ -1,6 +1,6 @@
 # Shoe Store App
  
-[live Site](http://a-shoe-store-app.surge.sh/)
+[live Site](http://a-shoe-store-app.netlify.app/)
 
 ![Shoe Store App](/public/shoestore.png)
 
